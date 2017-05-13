@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hìaasdlkfjlasdf
+=======
+hÃ­adjflks
+>>>>>>> 69c2dc45aead2397534af3743b91fe0f436cff0b
