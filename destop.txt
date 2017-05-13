@@ -2,8 +2,5 @@ thay doi 1
 thay doi 2
 thay doi 3
 thay doi 4
-<<<<<<< HEAD
 hihihihihi
-=======
 thay doi 5
->>>>>>> a79c25a0d600150544e094232695aaf1b0690d64
